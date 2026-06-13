@@ -1,11 +1,16 @@
+# EcoTour DZ — Client
 
-  # Algeria Eco-Tourism Landing Page
+Frontend for the Algeria Eco-Tourism platform.
 
-  This is a code bundle for Algeria Eco-Tourism Landing Page. The original project is available at https://www.figma.com/design/GNz3bFJt7APUYzDfu3yNxl/Algeria-Eco-Tourism-Landing-Page.
+## Development
 
-  ## Running the code
+```bash
+npm install
+npm run dev
+```
 
-  Run `npm i` to install the dependencies.
+## Build
 
-  Run `npm run dev` to start the development server.
-  
+```bash
+npm run build
+```
